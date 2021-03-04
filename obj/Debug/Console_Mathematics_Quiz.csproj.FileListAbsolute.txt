@@ -1,0 +1,7 @@
+C:\Users\u\source\repos\Console_Mathematics_Quiz\bin\Debug\Console_Mathematics_Quiz.exe.config
+C:\Users\u\source\repos\Console_Mathematics_Quiz\bin\Debug\Console_Mathematics_Quiz.exe
+C:\Users\u\source\repos\Console_Mathematics_Quiz\bin\Debug\Console_Mathematics_Quiz.pdb
+C:\Users\u\source\repos\Console_Mathematics_Quiz\obj\Debug\Console_Mathematics_Quiz.csprojAssemblyReference.cache
+C:\Users\u\source\repos\Console_Mathematics_Quiz\obj\Debug\Console_Mathematics_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\u\source\repos\Console_Mathematics_Quiz\obj\Debug\Console_Mathematics_Quiz.exe
+C:\Users\u\source\repos\Console_Mathematics_Quiz\obj\Debug\Console_Mathematics_Quiz.pdb
